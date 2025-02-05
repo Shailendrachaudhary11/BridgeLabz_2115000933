@@ -53,49 +53,30 @@
 - Strengthened understanding of beginner Java concepts.
 
  =============================================================================================================================================================================
-### 23-01-25 (Created Branch Feature-23/01/25)
-- Solved Level 1 assignment (Basics of Arrays in Java):
-  - BothSumFor.java  
-  - Both_Sum.java  
-  - Divisible_by_5.java  
-  - EmployeeBonus.java  
-  - Factorial.java  
-  - FactorialFor.java  
-  - Largest.java  
-  - MultiplicationTable.java  
-  - Natural.java  
-  - NumCheck.java  
-  - OddEvenNumbers.java  
-  - RocketLaunch.java  
-  - RocketLaunchUsingFor.java  
-  - Smallest.java  
-  - Spring.java  
-  - SumUntilZero.java  
-  - SumUntilZeroOrNegative.java  
-  - Vote.java  
-- Solved Level 2 assignment (Multi-Dimensional Arrays in Java):
-  - BMICalculator.java  
-  - FBWhile.java  
-  - Factors.java  
-  - FizzBuzz.java  
-  - GreatestFactor.java  
-  - Leap.java  
-  - LeapYear.java  
-  - Multiple.java  
-  - Power.java  
-  - PrimeNumberCheck.java  
-  - Student.java  
-  - YTFriend.java  
-- Solved Level 3 assignment (L3 folder):
-  - Abundant.java  
-  - Armstrong.java  
-  - Calculator.java  
-  - DayOfWeek.java  
-  - DigitCounter.java  
-  - Harshad.java  
+### 22-01-25 (Created Branch Feature-22/01/2025)
+- Solved assignmnents [BASICs IN JAVA]  java control flow,boolean Data type, break and continue etc
+     BMICalculator.java
+     BMICalculator2.java
+     Copy2DTo1D.java
+     DigitFrequency.java
+     EmployeeBonus.java
+     FactorsOfNum.java
+     Fizz.java
+     LargestAndSecondLargest.java
+     LargestSecondLargestDigits2.java
+     MeanHeight.java
+     Multiplication.java
+     MultiplicationTables.java
+     No_check.java
+     OddEven.java
+     ReverseNumber.java
+     StudentGrades.java
+     SumNumbers.java
+     VotingEligibility.java
+     YoungestAndTallestFriend.java 
 - Strengthened understanding of Arrays in Java concepts.
 =============================================================================================================================================================================
-### 24-01-25 (Created Branch Feature-24/01/25)
+### 23-01-25 (Created Branch Feature-23_01_2025)
 - Solved Level 1 assignment (L1 folder), focusing on Array practice:
   - ArrayInput.java  
   - Copy2D.java  
@@ -119,23 +100,13 @@
   - StudentGradeCalculator.java  
   - StudentGradeCalculator2D.java  
 =============================================================================================================================================================================
-### 28-01-25 (Created Branch Feature-28/01/25)
-- Solved Level 1 assignment (L1 folder), focusing on method calling using objects:
-  - Program_01.java  
-  - Program_02.java  
-  - Program_03.java  
-  - Program_04.java  
-  - Program_05.java  
-  - Program_06.java  
-  - Program_07.java  
-  - Program_08.java  
-  - Program_09.java  
-  - Program_10.java  
-  - Program_11.java  
-  - Program_12.java  
-- Strengthened understanding of objects, methods, and function calls.
+### 27-01-2025 (Created Branch Feature-27_01_2025)
+=============================================================================================================================================================================
+### 28-01-25 (Created Branch Feature-28_01_2025)
+- Submission on Java String
+- Functions and function parameter passing, return the value of function.
  =============================================================================================================================================================================
-### 29-01-25 (Created Branch Feature-29/01/25)
+### 28-01-25 (Created Branch Feature-28_01_2025_01)
 - Solved JavaString (String folder), focusing on String questions:
   - Anagram.java  
   - CompareString.java  
@@ -159,13 +130,12 @@
   - PalindromeChecker.java  
   - PrimeChecker.java  
   - TemperatureConvertor.java  
-- Strengthened understanding of Built-in functions.
   =============================================================================================================================================================================
   ### 30-01-25 (Created Branch Feature-30/01/25)
 - Solved Class and Object assignment:
   - Book.java  
-  - Circle.java  
-  - Employee.java  
+  - CircleDeatils.java  
+  - EmployeeDeatils.java  
 - Learned about Object Creation, Abstract Class, and Interface Implementation.
 
  =============================================================================================================================================================================
@@ -186,13 +156,12 @@
   - VehicleRegistration.java  
  =============================================================================================================================================================================
 
-### 02-02-25
-- Solved Level 1 Lab assignment (Program Folder), focusing on instance and class variables:
-  - BankAccount.java  
-  - Book.java  
-  - Employee.java  
-  - Patient.java  
-  - Product.java  
-  - Student.java  
-  - Vehicle.java  
-- Strengthened understanding of Data Hiding using Access Specifiers.
+### 03-02-2025 (Created Branch Feature-03_02_2025)
+- Assignment on Static, final, this Keyword
+     EmployeeManagementSystem.java
+     HospitalManagementSystem.java
+     LibraryManagementSystem.java
+     ShoppingCartSystem.java
+     UniversityStudentManagement.java
+     VehicleRegistrationSystem.java
+
