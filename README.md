@@ -77,62 +77,64 @@
 - Strengthened understanding of Arrays in Java concepts.
 =============================================================================================================================================================================
 ### 23-01-25 (Created Branch Feature-23_01_2025)
-- Solved Level 1 assignment (L1 folder), focusing on Array practice:
-  - ArrayInput.java  
-  - Copy2D.java  
-  - FindFactors.java  
-  - FizzBuzz.java  
-  - Heights.java  
-  - Multiplication.java  
-  - MultiplicationT.java  
-  - NumberAnalysis.java  
-  - OddEven.java  
-  - Voting.java  
-- Solved Level 2 assignment (L2 folder), focusing on Array practice:
-  - BMICalculator.java  
-  - BMICalculator2DArray.java  
-  - DigitFrequency.java  
-  - EmployeeBonusCalculator.java  
-  - FriendsComparison.java  
-  - LargestDigits.java  
-  - LargestDigitsDynamic.java  
-  - ReverseNumberArray.java  
-  - StudentGradeCalculator.java  
-  - StudentGradeCalculator2D.java  
+     Assignment on Java Arrays 1-D and 2-D, create , modify, assign values, update on Java arrays.
+- BMICalculator.java
+- BMICalculator2.java
+- Copy2DTo1D.java
+- DigitFrequency.java
+- EmployeeBonus.java
+- FactorsOfNum.java
+- Fizz.java
+- LargestAndSecondLargest.java
+- LargestSecondLargestDigits2.java
+- MeanHeight.java
+- Multiplication.java
+- MultiplicationTables.java
+- No_check.java
+- OddEven.java
+- ReverseNumber.java
+- StudentGrades.java
+- SumNumbers.java
+- VotingEligibility.java
+- YoungestAndTallestFriend.java
 =============================================================================================================================================================================
 ### 27-01-2025 (Created Branch Feature-27_01_2025)
+ - Assignments on Java Methods, user-defined methods, recursive methods and static methods.
 =============================================================================================================================================================================
-### 28-01-25 (Created Branch Feature-28_01_2025)
-- Submission on Java String
+### 28-01-25[Assignment 1] (Created Branch Feature-28_01_2025)
+- Submission on Java String and Time Zone
 - Functions and function parameter passing, return the value of function.
+- BasicCalculator.java
+- DateArithmetic.java
+- DateComparison.java
+- DateFormatting.java
+- FactorialCalculator.java
+- Fibonacci.java
+- GCDandLCMCalculator.java
+- MaximumOfThreeNumbers.java
+- NumberGuessingGame.java
+- PalindromeChecker.java
+- PrimeNumberChecker.java
+- TemperatureConverter.java
+- TimeZonesAndZonedDateTime.java
  =============================================================================================================================================================================
-### 28-01-25 (Created Branch Feature-28_01_2025_01)
+### 28-01-25[Assignments 2] (Created Branch Feature-28_01_2025_01)
 - Solved JavaString (String folder), focusing on String questions:
-  - Anagram.java  
-  - CompareString.java  
-  - ConsonantsAndVowels.java  
-  - FrequentCharacter.java  
-  - LongestWord.java  
-  - PalindromeString.java  
-  - RemoveDuplicate.java  
-  - ReverseString.java  
-  - SpecificCharacter.java  
-  - SubString.java  
-  - ToggleCase.java  
-  - WordReplace.java  
-- Solved Built-in functions assignment:
-  - BasicCalculator.java  
-  - FactorialRecursion.java  
-  - FibonacciGenerator.java  
-  - GCDLCMCalculator.java  
-  - MaxOfThree.java  
-  - NumberGame.java  
-  - PalindromeChecker.java  
-  - PrimeChecker.java  
-  - TemperatureConvertor.java  
+  - AnagramCheck.java
+  - CompareStrings.java
+  - LongestWord.java
+  - MostFrequentCharacter.java
+  - PalindromeCheck.java
+  - RemoveCharacter.java
+  - RemoveDuplicates.java
+  - ReplaceWord.java
+  - ReverseString.java
+  - SubstringOccurrences.java
+  - ToggleCase.java
+  - VowelConsonantCount.java 
   =============================================================================================================================================================================
   ### 30-01-25 (Created Branch Feature-30/01/25)
-- Solved Class and Object assignment:
+- Solved Basic problems of oops, concept of class and object:
   - Book.java  
   - CircleDeatils.java  
   - EmployeeDeatils.java  
@@ -140,7 +142,7 @@
 
  =============================================================================================================================================================================
  ### 31-01-25 (Created Branch Feature-31/01/25)
-- Solved Level 1 assignment based on Java Constructors:
+- Solved Level 1 assignment based on Java Constructors,Instance and class variables:
   - BankAccountManagement.java  
   - BookLibrarySystem.java  
   - CarRentalSystem.java  
@@ -165,3 +167,7 @@
      UniversityStudentManagement.java
      VehicleRegistrationSystem.java
 
+=============================================================================================================================================================================
+### 04-02-2025 (Created Branch Feature-04_02_2025)
+- Assignment on Class Diagram, Object and Sequence Diagram.
+- Object Modeling
