@@ -171,3 +171,18 @@
 ### 04-02-2025 (Created Branch Feature-04_02_2025)
 - Assignment on Class Diagram, Object and Sequence Diagram.
 - Object Modeling
+=============================================================================================================================================================================
+### 06-02-2025 (Created Branch Feature-06_02_2025)
+     Assignemnts of Inheritance[ Basic of inheritance and types of heritance in java]
+     -AnimalHierarchy.java
+     -BankManagementSystem.java
+     -BankSystem.java
+     -CourseSystem.java
+     -EmployeeManagement.java
+     -LibraryManagement.java
+     -OnlineRetailOrder.java
+     -RestaurantManagementSystem.java
+     -SchoolSystem.java
+     -SmartHomeSystem.java
+     -VehicleManagementSystem.java
+     -VehicleSystem.java
