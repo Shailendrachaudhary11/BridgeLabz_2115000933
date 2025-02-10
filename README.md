@@ -181,8 +181,15 @@
      -EmployeeManagement.java
      -LibraryManagement.java
      -OnlineRetailOrder.java
-     -RestaurantManagementSystem.java
-     -SchoolSystem.java
-     -SmartHomeSystem.java
-     -VehicleManagementSystem.java
-     -VehicleSystem.java
+
+=============================================================================================================================================================================
+### 08-02-2025 (Created Branch Feature-08_02_2025)
+     Assignements of abstraction, encapsulation, inheritance and polymorphism.
+     -BankingSystem.java
+     -ECommercePlatform.java
+     -EmployeeManagementSystem.java
+     -HospitalManagementSystem.java
+     -LibraryManagementSystem.java
+     -OnlineFoodDeliverySystem.java
+     -RideHailingSystem.java
+     -VehicleRentalSystem.java
