@@ -193,3 +193,21 @@
      -OnlineFoodDeliverySystem.java
      -RideHailingSystem.java
      -VehicleRentalSystem.java
+=============================================================================================================================================================================
+### 10-02-2025 
+     ## Assignments on linked list (single linked list, double linked list and circulary linked list)
+     ## Basic operation on linked list such as insertAtStart, insertAtMiddle, insertAtEnding, searching and so on.
+
+=============================================================================================================================================================================
+### 12-02-2025
+     ## Assignments on Stack, queue, hashing and HashMap.
+     -CircularTourProblem.java
+- CountPairWithGivenSum.java
+- CustomHashMap.java
+- ImplementQueueUsingStacks.java
+- LongestConsecutiveSequence.java
+- SlidingWindowMaximum.java
+- SortStack.java
+- StockSpanProblem.java
+- TwoSumProblem.java
+- ZeroSumSubarrays.java
