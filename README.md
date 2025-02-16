@@ -216,3 +216,9 @@
 ### 13-02-2025
      ## Assignments on Sorting in java.
      https://github.com/Shailendrachaudhary11/BridgeLabz_2115000933/tree/feature_13_02_2025
+
+
+ ==============================================================================================================================================================================
+ ### 14-02-2025
+       ## Assigments on BufferReader, StringBuilder, StringBuffer, Linear and binary search 
+     
