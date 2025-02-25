@@ -15,7 +15,7 @@
 - Covered Java fundamentals and basic syntax.
 - Solved an assignment based on Java basics which include:
   - Area.java  
-  - CTF.java  
+  - CTF.java   
   - KToM.java  
   - PowerCalculator.java  
   - Rectangle.java  
